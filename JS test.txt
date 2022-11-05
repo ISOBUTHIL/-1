@@ -1,2 +1,3 @@
-const message = 'Hello world';
+let message = 'Hello world';
+message.replace('H', 'B');
 console.log(message);
